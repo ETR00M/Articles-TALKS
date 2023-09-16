@@ -4,4 +4,4 @@ Neste repositório você encontrará materiais escritos exclusivamente por mim o
 - Sinta-se a vontade para utilizar os conteúdos, dando os devidos créditos ao(s) autor(es).
 
 ***
-Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
+_Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
